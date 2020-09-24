@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
-NPM START para rodar o projeto.
+Para rodar o projeto.
 
 
 ## Descrição do Projeto
